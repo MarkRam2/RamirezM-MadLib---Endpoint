@@ -10,6 +10,7 @@ everything within the curely brackets may be replaced with what they prompt you 
 
 so your url should look like this 
 diffrent http://localhost:5028/MadLib/Madness/{Fadjective}/{creature}/{gender}/{Event}/{Fverb}/{Sadjective}/{Fnoun}/{Sverb}/{Tadjective}/{Snoun}
+you would then past this in the omnibox
 
 if you don't change anything it will give you this  
 The {Fadjective} {creature} felt sad so {gender} decided they were going to set up {Event} 
